@@ -1,0 +1,41 @@
+C:\MyFiles\LocalCode\Course\modules-seats\bin\Debug\net7.0-windows\modules-seats.exe
+C:\MyFiles\LocalCode\Course\modules-seats\bin\Debug\net7.0-windows\modules-seats.deps.json
+C:\MyFiles\LocalCode\Course\modules-seats\bin\Debug\net7.0-windows\modules-seats.runtimeconfig.json
+C:\MyFiles\LocalCode\Course\modules-seats\bin\Debug\net7.0-windows\modules-seats.dll
+C:\MyFiles\LocalCode\Course\modules-seats\bin\Debug\net7.0-windows\modules-seats.pdb
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\App.g.cs
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats_MarkupCompile.cache
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats_MarkupCompile.lref
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\MainWindow.baml
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.g.resources
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.AssemblyInfoInputs.cache
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.AssemblyInfo.cs
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.csproj.CoreCompileInputs.cache
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.dll
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\refint\modules-seats.dll
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.pdb
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\modules-seats.genruntimeconfig.cache
+C:\MyFiles\LocalCode\Course\modules-seats\obj\Debug\net7.0-windows\ref\modules-seats.dll
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\bin\Debug\net7.0-windows\modules-seats.exe
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\bin\Debug\net7.0-windows\modules-seats.deps.json
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\bin\Debug\net7.0-windows\modules-seats.runtimeconfig.json
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\bin\Debug\net7.0-windows\modules-seats.dll
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\bin\Debug\net7.0-windows\modules-seats.pdb
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.csproj.AssemblyReference.cache
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats_MarkupCompile.cache
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats_MarkupCompile.lref
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.g.resources
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.AssemblyInfoInputs.cache
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.AssemblyInfo.cs
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.dll
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\refint\modules-seats.dll
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.pdb
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\modules-seats.genruntimeconfig.cache
+C:\Users\Айнур\Desktop\Айнур\Уник\3 курс\5 сем\КУРСАЧ\МСАПР\modules-seats\obj\Debug\net7.0-windows\ref\modules-seats.dll
